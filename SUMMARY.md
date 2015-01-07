@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * Summary
 * Lecture Notes
-   * Lecture 1
+   * Lecture 1: Statistical Terminology
 * Study Guides
 
