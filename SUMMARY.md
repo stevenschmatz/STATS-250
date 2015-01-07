@@ -5,4 +5,5 @@
 * Lecture Notes
    * [Lecture 1: Statistical Terminology](lecture_1_statistical_terminology.md)
 * Study Guides
+* Lecture 1: Statistical Terminology
 
