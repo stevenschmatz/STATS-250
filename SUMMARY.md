@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Summary
-* Statistical Terminology
+* Lecture Notes
 
