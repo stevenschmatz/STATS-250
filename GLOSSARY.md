@@ -24,3 +24,6 @@ A variable which can be compared to other variables in the same category, where 
 
 # Distribution
 The values a variable can take and how often it takes those values.
+
+# Modality
+The number of peaks that a histogram has.
