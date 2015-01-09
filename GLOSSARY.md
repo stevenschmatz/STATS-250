@@ -21,3 +21,6 @@ A variable which can fall in one of several discrete categories, where there is 
 
 # Quantitative variable
 A variable which can be compared to other variables in the same category, where there are "greater than" or "less than" relationships. Can either be discrete or continuous. **Ex.** height, GPA, age.
+
+# Distribution
+The values a variable can take and how often it takes those values.
