@@ -27,3 +27,6 @@ The values a variable can take and how often it takes those values.
 
 # Modality
 The number of peaks that a histogram has.
+
+# Outliers
+Data points that do not fit in the typical pattern for the data set. They should either be explained, fixed (if typographical errors on behalf of the statistician), or further studied. They should never be thrown away.
