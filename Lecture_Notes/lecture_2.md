@@ -22,3 +22,21 @@ Note that for plotting quantitative data, the data can be segmented into regions
 ## Describing Distribution of Data
 *Distribution* of data comprises of the **values** a variable can take, and the **proportion** of time the variable takes those values.
 
+A histogram tells us:
+* **Overall pattern**
+    * Is it symmetric? Skewed? Bell-shaped? Uniform?
+        * Skewed right has most of the data on the **left**, and vice versa
+    * The *modality* (how many peaks does the data have?)
+* **Location of (center, average)**
+    * 50% point or balance point
+* **Variability**
+    * Range (max - min)
+    * Standard deviation
+    * Variance
+* **Deviations (unusual features)**
+    * Outliers
+    * Should not be discarded without justification
+
+
+
+
