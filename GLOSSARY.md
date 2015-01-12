@@ -30,3 +30,10 @@ The number of peaks that a histogram has.
 
 # Outliers
 Data points that do not fit in the typical pattern for the data set. They should either be explained, fixed (if typographical errors on behalf of the statistician), or further studied. They should never be thrown away.
+
+# Mean
+The numerical average of a sample. The sum of the data points divided by the number of data points. Used to describe the center of symmetric distributions.
+
+# Median
+The middle element when the elements are sorted in increasing order. In the case of an even number of data points, the median is the average of the two centermost elements.
+
