@@ -26,5 +26,11 @@ The median is *resistant* (robust) to extreme observations.
 
 If a distribution is skewed, we tend to use the **median**.
  
+### Skewness
 
+If the distribution is *symmetric*, the mean and the median will be equal.
+
+Otherwise:
+* If the distribution is **right skewed**, then the median is *greater than* the mean.
+* If the distribution is **left skewed**, then the median is *less than* the mean.
 
