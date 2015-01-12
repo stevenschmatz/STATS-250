@@ -36,5 +36,5 @@ Otherwise:
 
 ## Describing Variability
 
-
+Simple range can be used. Another measure is *interquartile range*.
 
