@@ -49,4 +49,8 @@ Another measure is *interquartile range*, which measures the variability over th
 
 $$IQR = Q_3 - Q_1$$
 
+#### Box Plots
 
+A box plot is a graphical diagram consisting of the max, min, \\(Q_1\\), \\(Q_3\\), and median. It is drawn as follows:
+
+![Box Plot](http://i.imgur.com/YI4M08L.png)
