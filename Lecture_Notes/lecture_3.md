@@ -20,7 +20,7 @@ If a distribution is fairly symmetric, we tend to use the **mean** to describe t
 
 ##### Median
 
-Median of the data set: the middle element, *when the elements are sorted in increasing order!*
+Median of the data set: the middle element, *when the elements are sorted in increasing order!* If the number of data points is even, then the median is the average of the two innermost data points.
 
 The median is *resistant* (robust) to extreme observations.
 
