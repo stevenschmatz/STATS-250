@@ -6,7 +6,7 @@
  
  where \\(n\\) is the size of your data set.
  
- #### Describing the Center Location
+ ## Describing the Center Location
  
  ##### Mean
  
@@ -33,4 +33,8 @@ If the distribution is *symmetric*, the mean and the median will be equal.
 Otherwise:
 * If the distribution is **right skewed**, then the median is *greater than* the mean.
 * If the distribution is **left skewed**, then the median is *less than* the mean.
+
+## Describing Variability
+
+
 
