@@ -37,7 +37,7 @@ Otherwise:
 ## Describing Variability
 
 Range:
-* A spread over 100% of data.
+* A variability over 100% of data.
 * Maximum - Minimum
 
 *Percentiles* can also be used. The \\(p^{\text{th}}\\) percentile is a value such that \\(p\\) percent of the observations fall at or below that value:
@@ -45,5 +45,8 @@ Range:
 * First quartile: \\(25^{\text{th}}\\) percentile
 * Third quartile: \\(75^{\text{th}}\\) percentile
 
-Another measure is *interquartile range*.
+Another measure is *interquartile range*, which measures the variability over the middle 50% of data:
+
+$$IQR = Q_3 - Q_1$$
+
 
