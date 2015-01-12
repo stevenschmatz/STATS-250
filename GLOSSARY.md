@@ -37,3 +37,6 @@ The numerical average of a sample. The sum of the data points divided by the num
 # Median
 The middle element when the elements are sorted in increasing order. In the case of an even number of data points, the median is the average of the two centermost elements.
 
+# Percentiles
+The \\(p^{\text{th}}\\) percentile is a value such that \\(p\\) percent of the observations fall at or below that value
+
