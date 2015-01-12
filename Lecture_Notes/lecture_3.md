@@ -42,7 +42,7 @@ Range:
 
 *Percentiles* can also be used. The \\(p^{\text{th}}\\) percentile is a value such that \\(p\\) percent of the observations fall at or below that value:
 * Median: \\(50^{\text{th}}\\) percentile
-* First quartile: \\(25^{text{th}}\\) percentile
+* First quartile: \\(25^{\text{th}}\\) percentile
 * Third quartile: \\(75^{\text{th}}\\) percentile
 
 Another measure is *interquartile range*.
