@@ -16,6 +16,8 @@ $$\bar{x} = \frac{x_1 + x_2 + x_3 + \dots + x_n}{n}$$
 
 The mean is *sensitive* to extreme observations.
 
+If a distribution is fairly symmetric, we tend to use the **mean** to describe the center.
+
 ##### Median
 
 Median of the data set: the middle element, when *the elements are sorted in increasing order!*
