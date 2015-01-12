@@ -24,6 +24,7 @@ Median of the data set: the middle element, when *the elements are sorted in inc
 
 The median is *resistant* (robust) to extreme observations.
 
+If a distribution is skewed, we tend to use the **median**.
  
 
 
